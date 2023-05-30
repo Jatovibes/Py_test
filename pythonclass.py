@@ -1,2 +1,3 @@
 x=5
-print(x)
+y=98
+print(x-y)
