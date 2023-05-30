@@ -1,2 +1,2 @@
-names = ('John')
+names = ('John' , 'James')
 print(names)
